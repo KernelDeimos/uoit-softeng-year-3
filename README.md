@@ -67,7 +67,7 @@ Software Project Management
 
 ### Midterm
 
-  * Date: ?
+  * Date: 02-28
 
 ### Project
 
