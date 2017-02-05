@@ -14,7 +14,7 @@ Artificial Intelligence
 
 ### Midterm
 
-  * Date: 02-21
+  * Date: 03-02
 
 ### Project
 
