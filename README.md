@@ -19,7 +19,7 @@ Artificial Intelligence
 ### Project
 
   * Due: ?
-  * Group size: ?
+  * Group size: 3-4
 
 Computer Networks
 -----------------
@@ -59,7 +59,7 @@ Operating Systems
 ### Project
 
   * Due: /
-  * Group size: ?
+  * Group size: 2-3
   * Info: Done in labs
 
 Software Project Management
