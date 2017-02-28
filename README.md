@@ -1,5 +1,4 @@
 # Summary of Course Dates
-=======================
 
 Any information marked with a question mark has not yet been added.
 If you have any updates, please submit a pull request with the missing
@@ -10,7 +9,6 @@ Legend:
 - / Information not applicable
 
 ## Artificial Intelligence
------------------------
 
 ### Midterm
 
@@ -27,7 +25,6 @@ Legend:
   * Place: UA1140
 
 ## Computer Networks
------------------
 
 ### Midterm
 
@@ -44,7 +41,6 @@ Legend:
   * Place: UA2130
 
 ## Engineering Economics
----------------------
 
 ### Midterm 1
 
@@ -66,7 +62,6 @@ Legend:
   
 
 ## Operating Systems
------------------
 
 ### Midterm
 
@@ -84,7 +79,6 @@ Legend:
   * Place: UA3140
 
 ## Software Project Management
----------------------------
 
 ### Midterm
 
@@ -101,7 +95,6 @@ Legend:
   * Place: UA1140
 
 ## Software Quality
-----------------
 
 ### Midterm
 
