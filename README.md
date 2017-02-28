@@ -1,5 +1,4 @@
-Summary of Course Dates
-=======================
+# Summary of Course Dates
 
 Any information marked with a question mark has not yet been added.
 If you have any updates, please submit a pull request with the missing
@@ -9,8 +8,7 @@ Legend:
 - ? Information not announced or not added
 - / Information not applicable
 
-Artificial Intelligence
------------------------
+## Artificial Intelligence
 
 ### Midterm
 
@@ -21,8 +19,12 @@ Artificial Intelligence
   * Due: ?
   * Group size: 3-4
 
-Computer Networks
------------------
+### Final exam
+  * Date: 12 Apr
+  * Time: 19:00 (7 p.m.)
+  * Place: UA1140
+
+## Computer Networks
 
 ### Midterm
 
@@ -33,8 +35,12 @@ Computer Networks
   * Due: 04-03
   * Group size: 2-3
 
-Engineering Economics
----------------------
+### Final exam
+  * Date: 10 Apr
+  * Time: 12:00
+  * Place: UA2130
+
+## Engineering Economics
 
 ### Midterm 1
 
@@ -42,15 +48,20 @@ Engineering Economics
 
 ### Midterm 2
   
-  * Date: ?
+  * Date: 5 March (4-7 p.m.)
 
 ### Project
 
   * Due: ?
   * Group size: ?
 
-Operating Systems
------------------
+### Final exam
+  * Date: 15 Apr
+  * Time: 12:00
+  * Place: New Gym
+  
+
+## Operating Systems
 
 ### Midterm
 
@@ -62,8 +73,12 @@ Operating Systems
   * Group size: 2-3
   * Info: Done in labs
 
-Software Project Management
----------------------------
+### Final exam
+  * Date: 20 Apr
+  * Time: 12:00
+  * Place: UA3140
+
+## Software Project Management
 
 ### Midterm
 
@@ -74,8 +89,12 @@ Software Project Management
   * Due: ?
   * Group size: ?
 
-Software Quality
-----------------
+### Final exam
+  * Date: 11 Apr
+  * Time: 12:00
+  * Place: UA1140
+
+## Software Quality
 
 ### Midterm
 
@@ -85,3 +104,8 @@ Software Quality
 
   * Due: ?
   * Group size: ?
+
+### Final exam
+  * Date: 19 Apr
+  * Time: 12:00
+  * Place: UA1120
