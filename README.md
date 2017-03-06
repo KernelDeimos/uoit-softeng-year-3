@@ -1,16 +1,51 @@
-Summary of Course Dates
-=======================
+# Summary of Course Dates
 
 Any information marked with a question mark has not yet been added.
 If you have any updates, please submit a pull request with the missing
 information added.
 
-Legend:
+## Contents:
+- [Exam Schedule](#exam-schedule)
+- [Course: AI](#artificial-intelligence)
+- [Course: CN](#computer-networks)
+- [Course: EE](#engineering-economics)
+- [Course: OS](#operating-systems)
+- [Course: PM](#software-project-management)
+
+## Legend:
 - ? Information not announced or not added
 - / Information not applicable
 
-Artificial Intelligence
------------------------
+## Exam Schedule
+
+### PM
+  * Date: April-11
+  * Time: 12 PM (Noon)
+  * Place: UA1140
+  
+### AI
+  * Date: April-12
+  * Time: 7 PM
+  * Place: UA1140
+  
+### EE
+  * Date: April-15
+  * Time: 12 PM (Noon)
+  * Place: NEW GYM 3
+
+### OS
+  * Date: April-19
+  * Time: 12 PM (Noon)
+  * Place: UA1120
+
+### CN
+  * Date: April-20
+  * Time: 12 PM (Noon)
+  * Place:
+    * Last name A-K: UA3130
+    * Last name L-Z: UA3140
+
+## Artificial Intelligence
 
 ### Midterm
 
@@ -21,8 +56,7 @@ Artificial Intelligence
   * Due: ?
   * Group size: 3-4
 
-Computer Networks
------------------
+## Computer Networks
 
 ### Midterm
 
@@ -33,8 +67,7 @@ Computer Networks
   * Due: 04-03
   * Group size: 2-3
 
-Engineering Economics
----------------------
+## Engineering Economics
 
 ### Midterm 1
 
@@ -42,15 +75,15 @@ Engineering Economics
 
 ### Midterm 2
   
-  * Date: ?
+  * Date: 5 March (4-7 p.m.)
 
 ### Project
 
   * Due: ?
   * Group size: ?
+  
 
-Operating Systems
------------------
+## Operating Systems
 
 ### Midterm
 
@@ -62,8 +95,7 @@ Operating Systems
   * Group size: 2-3
   * Info: Done in labs
 
-Software Project Management
----------------------------
+## Software Project Management
 
 ### Midterm
 
@@ -74,8 +106,7 @@ Software Project Management
   * Due: ?
   * Group size: ?
 
-Software Quality
-----------------
+## Software Quality
 
 ### Midterm
 
