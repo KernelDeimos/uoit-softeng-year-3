@@ -17,33 +17,33 @@ information added.
 - / Information not applicable
 
 ## Exam Schedule
+
+### PM
+  * Date: April-11
+  * Time: 12 PM (Noon)
+  * Place: UA1140
+  
 ### AI
   * Date: April-12
   * Time: 7 PM
   * Place: UA1140
   
+### EE
+  * Date: April-15
+  * Time: 12 PM (Noon)
+  * Place: NEW GYM 3
+
+### OS
+  * Date: April-19
+  * Time: 12 PM (Noon)
+  * Place: UA1120
+
 ### CN
   * Date: April-20
   * Time: 12 PM (Noon)
   * Place:
     * Last name A-K: UA3130
     * Last name L-Z: UA3140
-  
-### EE
-  * Date: April-15
-  * Time: 12 PM (Noon)
-  * Place: NEW GYM 3
-  
-### OS
-  * Date: April-19
-  * Time: 12 PM (Noon)
-  * Place: UA1120
-  
-
-### PM
-  * Date: April-11
-  * Time: 12 PM (Noon)
-  * Place: UA1140
 
 ## Artificial Intelligence
 
