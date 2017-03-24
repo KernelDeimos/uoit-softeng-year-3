@@ -18,6 +18,11 @@ information added.
 
 ## Exam Schedule
 
+### SQ
+  * Date: April-10
+  * Time: 12 PM (Noon)
+  * Place: UA2130
+
 ### PM
   * Date: April-11
   * Time: 12 PM (Noon)
